@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rashidul0405
+- 👋 Hi, I’m Rashidul, Lead Software Engineer at [Schibsted](https://schibsted.com/)(vg/friflyt)
 - 👀 I’m interested in programming languages overall
 - 🌱 I’m currently working on React, NextJS, TypeScript, AWS serverless, Rust
 - 📫 Reach me at hello@rashidul.me
