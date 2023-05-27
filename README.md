@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rashidul, Lead Software Engineer at [Schibsted](https://schibsted.com/) (VG/Fri Flyt)
+- 👋 Hi, I’m Rashidul, I am a Lead Software Engineer at [Schibsted](https://schibsted.com/) (VG/Fri Flyt)
 - 👀 I’m interested in programming languages overall
 - 🌱 I’m currently working on React, React Native, NextJS, TypeScript, AWS serverless, Rust
 - 📫 Reach me at hello@rashidul.me
